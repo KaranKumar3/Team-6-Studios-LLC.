@@ -130,7 +130,6 @@ public class GUI {
 				}
 			});
 		
-			
 		// Input label:
 		JLabel labelInput = new JLabel("Input");
 		labelInput.setBounds(118, 76, 38, 16);
@@ -307,7 +306,6 @@ public class GUI {
 					
 				}
 			});
-		
 			
 		// Help button:
 		JButton buttonHelp = new JButton("Help");
@@ -352,7 +350,6 @@ public class GUI {
 					
 				}
 			});
-		
 		
 		// Process button:
 		JButton buttonProcess = new JButton("Process");
